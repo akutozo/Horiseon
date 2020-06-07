@@ -7,6 +7,10 @@ Horiseon offers businesses marketing tools to be easily found, get ahead of nega
 * HTML
 * CSS
 
+## Project
+
+Contracted by Horiseon to improve existing HTML elements, improve accessibility and consolidate redundant code.
+
 ## Website
 https://akutozo.github.io/Horiseon/
 
