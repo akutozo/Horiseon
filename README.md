@@ -9,3 +9,5 @@ Horiseon offers businesses marketing tools to be easily found, get ahead of nega
 
 ## Website
 https://akutozo.github.io/Horiseon/
+
+![Overview of Horiseon](/assets/images/website-image.JPG "Final Version")
